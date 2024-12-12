@@ -53,3 +53,5 @@ dkms.conf
 
 /Assets/Secret
 /Assets/Secret/database.json
+obj/Debug/net8.0/Database-code.AssemblyInfo.cs
+obj/Debug/net8.0/Database-code.AssemblyInfo.cs
